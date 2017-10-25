@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <plugin name="GeracaoArquivoXML" label="Geracao Arquivo XML" plugin-version="1.0" ecidade-version="2.3.50" id-modulo="209">
+    <id id="GeracaoArquivoXML"> </id>
+    <files>
+
+      <!-- outro -->
+      <file name="con4_gerarSIAIXML001.php" path="/con4_gerarSIAIXML001.php" />
+      <file name="con4_processarSIAIXML.RPC.php" path="/con4_processarSIAIXML.RPC.php" />
+
+      <!-- model -->
+      <file name="SiaiArquivoBaseXML.model.php"    path="/model/contabilidade/arquivos/siai/SiaiArquivoBaseXML.model.php" />
+      <file name="SiaiArquivoXML.model.php"    path="/model/contabilidade/arquivos/siai/SiaiArquivoXML.model.php" />
+
+    </files>
+  </plugin>
+</manifest>
